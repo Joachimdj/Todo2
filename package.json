@@ -1,4 +1,4 @@
-{
+{ "main" : "./bin/www",
   "name": "Todo2",
   "version": "0.0.0",
   "private": true,
